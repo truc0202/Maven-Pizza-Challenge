@@ -1,4 +1,4 @@
-# Maven-Pizza-Challenge
+# [Maven-Pizza-Challenge](https://mavenanalytics.io/challenges/maven-pizza-challenge/be511a47-85fd-4931-8293-c3bffb577199)
 
 ![images (7)](https://user-images.githubusercontent.com/108612390/193467417-26c85e60-7998-4b89-8015-120f30f6f86e.png)
 
@@ -35,23 +35,6 @@ Dữ liệu từ Maven Plato Pizza bao gồm 4 tệp CSV đại diện cho một
 ![image](https://github.com/user-attachments/assets/be79fe58-c4dc-4d97-8c88-4b97d7b369b7)
 
 ## Phân tích
-![Screenshot (60)](https://user-images.githubusercontent.com/108612390/194349332-97fe168d-d622-4bba-a79b-f7d2af9541fe.png)
-- Giờ bận rộn nhất dường như là từ 12 giờ trưa đến 2 giờ chiều.
-
-![Screenshot (61)](https://user-images.githubusercontent.com/108612390/194350181-4701afb0-3551-4df5-bf21-f823b7e05dc8.png)
-- Loại pizza bán chạy nhất là Thai Chicken Pizza, trong khi pizza bán ít nhất là Brie Carre Pizza.
-
-![Screenshot (62)](https://user-images.githubusercontent.com/108612390/194350891-d8cc65a7-f30c-47d5-87a9-de4511b044e3.png)
-- Plato Pizza ghi nhận số lượng đơn hàng và doanh thu nhiều nhất vào các ngày Chủ Nhật, tiếp theo là Thứ Hai, và số lượng đơn hàng ít nhất là vào các ngày Thứ Năm.
-
-![Screenshot (63)](https://user-images.githubusercontent.com/108612390/194351514-c24aa062-0a4f-4b44-b62d-0974787e026a.png)
-- Khách hàng ưa chuộng và mua nhiều pizza cỡ lớn hơn so với các kích cỡ khác. Trong khi đó, kích cỡ XXL (cực lớn) lại là kích cỡ ít được mua nhất.
-
-![Screenshot (64)](https://user-images.githubusercontent.com/108612390/194352347-affe1bc2-c09e-4b51-9527-c0d433239ba6.png)
-- Tháng 7 ghi nhận số lượng đơn hàng và doanh thu nhiều nhất, trong khi tháng 10 lại có doanh thu ít nhất. Plato Pizza chắc chắn cần cải thiện doanh thu trong mùa thu.
-
-![Screenshot (65)](https://user-images.githubusercontent.com/108612390/194353332-d60c0ae1-dbe9-4f06-a061-f57764b1e954.png)
-- Biểu đồ trên cho thấy cường độ bán hàng theo kích cỡ và loại pizza. Rõ ràng có bốn loại pizza tại Plato's Place và kích cỡ lớn trong loại Veggie dường như được khách hàng yêu thích nhất, trong khi kích cỡ XXL trong loại Classic là ít được khách hàng ưa chuộng nhất.
 
 ## Thông tin chi tiết
 - Giá trung bình của một chiếc pizza là $16,4.
@@ -61,3 +44,6 @@ Dữ liệu từ Maven Plato Pizza bao gồm 4 tệp CSV đại diện cho một
 - Plato Pizza có doanh thu nhiều nhất vào các ngày Chủ Nhật, điều này là hợp lý vì gia đình và bạn bè thường tụ tập vào cuối tuần và các món ăn như pizza sẽ là không thể thiếu.
 - Thời gian cao điểm tạo ra doanh thu nhiều nhất dường như là giữa trưa từ 12 giờ trưa đến 2 giờ chiều.
 - Trong các khoảng thời gian cao điểm, thường là các ngày Chủ Nhật, Plato Pizza nhận được hơn 8,000 đơn hàng.
+## Nguồn tài liệu tham khảo: 
+- Playlist "Maven Pizza Challenge" của Idris Alugo trên YouTube, bao gồm các video hướng dẫn phân tích dữ liệu từ dự án Maven Pizza Challenge. [Link đến playlist](https://youtube.com/playlist?list=PLkXVpowhumxPSGkz9HTZ2wPOKFalTwUro&si=Nhmu5juEOjQNBt8T)
+
