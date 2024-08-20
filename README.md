@@ -48,6 +48,7 @@ Phân tích doanh thu nhà hàng:
 - Ảnh hưởng của thời tiết: Nhu cầu giảm trong mùa mưa và lạnh (tháng 9-10) khi khách hàng ít lựa chọn pizza, nhưng có sự cải thiện tích cực vào tháng 3 và 11.
 - Tối ưu hóa hoạt động: Đề xuất mở cửa nhà hàng sau 10h sáng để tối ưu hóa nhân lực, tập trung vào giờ cao điểm và giảm thời gian hoạt động vào các khung giờ thấp điểm mà không ảnh hưởng đáng kể đến doanh thu.
 - Thói quen khách hàng: Doanh thu cao nhất vào giờ nghỉ trưa và tan tầm chiều, đặc biệt là khung giờ 18h thứ Sáu do đây là thời điểm hội họp cuối tuần. Ngược lại, doanh thu thấp nhất vào ngày Chủ nhật.
+
 Phân tích sản phẩm:
 - Pizza truyền thống bán chạy nhất: Đạt 42 chiếc/ngày và có doanh thu cao nhất trong tất cả các loại pizza.
 - Giá và doanh thu: Pizza truyền thống có giá thành rẻ nhất, trong khi pizza gà có giá cao nhất. Gần 50% tổng doanh số đến từ kích cỡ XLarge. Đề xuất giảm giá các kích cỡ khác để cải thiện doanh số tổng thể.
