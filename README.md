@@ -18,21 +18,21 @@ Dữ liệu từ Maven Plato Pizza bao gồm 4 tệp CSV đại diện cho một
 
 ## Dashboard trong Power BI
 ### Cover
-![image](https://github.com/user-attachments/assets/9dbfbb69-39c5-4267-98df-cf6caa491baa)
+<img width="600" alt="overall_distribution" src=https://github.com/user-attachments/assets/9dbfbb69-39c5-4267-98df-cf6caa491baa>
 ### Order&Revenue
-![image](https://github.com/user-attachments/assets/0afb4e5f-500c-43ca-b241-7ae223e70913)
+<img width="600" alt="overall_distribution" src=https://github.com/user-attachments/assets/0afb4e5f-500c-43ca-b241-7ae223e70913>
 ### Weekday-Hour
-![image](https://github.com/user-attachments/assets/78f83d25-c2d6-4dee-9ce0-2291a2623030)
+<img width="600" alt="overall_distribution" src=https://github.com/user-attachments/assets/78f83d25-c2d6-4dee-9ce0-2291a2623030>
 ### Name-Cate-Size
-![image](https://github.com/user-attachments/assets/06a60402-3a00-4c3a-ac36-5bd4db0f5871)
+<img width="600" alt="overall_distribution" src=https://github.com/user-attachments/assets/06a60402-3a00-4c3a-ac36-5bd4db0f5871>
 ### Ingredients
-![image](https://github.com/user-attachments/assets/24f4df2e-1cfd-43ae-91ae-bc2d75e51937)
+<img width="600" alt="overall_distribution" src=https://github.com/user-attachments/assets/24f4df2e-1cfd-43ae-91ae-bc2d75e51937>
 ### Pizza Size
-![image](https://github.com/user-attachments/assets/77855bc9-75ea-4c63-a893-ad796475864d)
+<img width="600" alt="overall_distribution" src=https://github.com/user-attachments/assets/77855bc9-75ea-4c63-a893-ad796475864d>
 ### Pizza Size-Price
-![image](https://github.com/user-attachments/assets/e5620291-478d-4204-be00-fe4ced88a9a4)
+<img width="600" alt="overall_distribution" src=https://github.com/user-attachments/assets/e5620291-478d-4204-be00-fe4ced88a9a4>
 ### Category
-![image](https://github.com/user-attachments/assets/be79fe58-c4dc-4d97-8c88-4b97d7b369b7)
+<img width="600" alt="overall_distribution" src=https://github.com/user-attachments/assets/be79fe58-c4dc-4d97-8c88-4b97d7b369b7>
 
 ## Thông tin chi tiết
 - Giá trung bình của một chiếc pizza là $16,4.
