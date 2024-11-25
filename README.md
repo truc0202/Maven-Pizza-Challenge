@@ -17,21 +17,28 @@ Dữ liệu từ Maven Plato Pizza bao gồm 4 tệp CSV đại diện cho một
 - Power BI: Công cụ trí tuệ doanh nghiệp của Microsoft rất hữu ích trong quá trình tạo hình ảnh hóa của tôi. Tôi đã nhập các tập dữ liệu vào Power BI và tạo một bảng điều khiển duy nhất rõ ràng và hấp dẫn về mặt thị giác.
 
 ## Dashboard trong Power BI
-### Cover
+### 🍕Cover
 <img width="600" alt="overall_distribution" src=https://github.com/user-attachments/assets/9dbfbb69-39c5-4267-98df-cf6caa491baa>
-### Order&Revenue
+
+### 🍕Order&Revenue
 <img width="600" alt="overall_distribution" src=https://github.com/user-attachments/assets/0afb4e5f-500c-43ca-b241-7ae223e70913>
-### Weekday-Hour
+
+### 🍕Weekday-Hour
 <img width="600" alt="overall_distribution" src=https://github.com/user-attachments/assets/78f83d25-c2d6-4dee-9ce0-2291a2623030>
-### Name-Cate-Size
+
+### 🍕Name-Cate-Size
 <img width="600" alt="overall_distribution" src=https://github.com/user-attachments/assets/06a60402-3a00-4c3a-ac36-5bd4db0f5871>
-### Ingredients
+
+### 🍕Ingredients
 <img width="600" alt="overall_distribution" src=https://github.com/user-attachments/assets/24f4df2e-1cfd-43ae-91ae-bc2d75e51937>
-### Pizza Size
+
+### 🍕Pizza Size
 <img width="600" alt="overall_distribution" src=https://github.com/user-attachments/assets/77855bc9-75ea-4c63-a893-ad796475864d>
-### Pizza Size-Price
+
+### 🍕Pizza Size-Price
 <img width="600" alt="overall_distribution" src=https://github.com/user-attachments/assets/e5620291-478d-4204-be00-fe4ced88a9a4>
-### Category
+
+### 🍕Category
 <img width="600" alt="overall_distribution" src=https://github.com/user-attachments/assets/be79fe58-c4dc-4d97-8c88-4b97d7b369b7>
 
 ## Thông tin chi tiết
