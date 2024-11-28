@@ -13,7 +13,22 @@ Dữ liệu từ Maven Plato Pizza bao gồm 4 tệp CSV đại diện cho một
 
 ## Công cụ được sử dụng cho phân tích
 - Microsoft Excel: Tôi đã sử dụng Ms Excel để xem các tập dữ liệu và hiểu rõ hơn về các tham số của dữ liệu. Tôi cũng đã thực hiện một số công việc làm sạch để làm cho tập dữ liệu dễ dàng làm việc và phân tích hơn.
-- PostgreSQL: Đây là một công cụ tuyệt vời để truy xuất dữ liệu mà tôi đã sử dụng để thực hiện phân tích chi tiết với sự hỗ trợ của các toán tử và cú pháp SQL tổng quát để truy xuất dữ liệu cần thiết.
+- SQL Serveren-Pizza-Challenge](https://mavenanalytics.io/challenges/maven-pizza-challenge/be511a47-85fd-4931-8293-c3bffb577199)
+
+![images (7)](https://user-images.githubusercontent.com/108612390/193467417-26c85e60-7998-4b89-8015-120f30f6f86e.png)
+
+## Giới thiệu
+Dữ liệu từ Maven Plato Pizza bao gồm 4 tệp CSV đại diện cho một năm doanh thu từ một quán pizza giả tưởng, bao gồm ngày và giờ của mỗi đơn hàng cùng các loại pizza được phục vụ, với các chi tiết bổ sung về loại, kích cỡ, số lượng, giá cả và nguyên liệu.
+
+## Phân tích được đề xuất
+- Những ngày và giờ nào chúng tôi thường bận rộn nhất?
+- Chúng tôi làm bao nhiêu chiếc pizza trong các khoảng thời gian cao điểm?
+- Những loại pizza nào bán chạy nhất và tệ nhất?
+- Giá trị đơn hàng trung bình của chúng tôi là bao nhiêu?
+
+## Công cụ được sử dụng cho phân tích
+- Microsoft Excel: Tôi đã sử dụng Ms Excel để xem các tập dữ liệu và hiểu rõ hơn về các tham số của dữ liệu. Tôi cũng đã thực hiện một số công việc làm sạch để làm cho tập dữ liệu dễ dàng làm việc và phân tích hơn.
+- SQL Server: Đây là một công cụ tuyệt vời để truy xuất dữ liệu mà tôi đã sử dụng để thực hiện phân tích chi tiết với sự hỗ trợ của các toán tử và cú pháp SQL tổng quát để truy xuất dữ liệu cần thiết.
 - Power BI: Công cụ trí tuệ doanh nghiệp của Microsoft rất hữu ích trong quá trình tạo hình ảnh hóa của tôi. Tôi đã nhập các tập dữ liệu vào Power BI và tạo một bảng điều khiển duy nhất rõ ràng và hấp dẫn về mặt thị giác.
 
 ## Dashboard trong Power BI
